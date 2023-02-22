@@ -97,7 +97,7 @@ def np_chunk(tree):
     return chunks
 ```
 ### How the output looks
-![alt text](https://github.com/garciadiazjuan/AI/blob/main/LANGUAGE/images/output_example.png)
+![alt text](https://github.com/garciadiazjuan/AI/blob/main/LANGUAGE/Parser/images/output_example.png)
 
 # Credit and sources
 - Credit to the design of the project and base code goes to Harvard university and the CS50 course
