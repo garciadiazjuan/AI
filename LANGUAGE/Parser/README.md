@@ -101,4 +101,4 @@ def np_chunk(tree):
 
 # Credit and sources
 - Credit to the design of the project and base code goes to Harvard university and the CS50 course
-- [https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/](https://cs50.harvard.edu/ai/2020/projects/6/parser/)
+- [https://cs50.harvard.edu/ai/2020/projects/6/parser/](https://cs50.harvard.edu/ai/2020/projects/6/parser/)
